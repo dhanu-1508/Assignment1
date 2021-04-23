@@ -13,15 +13,10 @@ namespace Assignment1
         {
             DemoFactEven df = new DemoFactEven();
           
-            // ch chi value kuthun ghety?
-            //input wali line 
+            
             Console.WriteLine("enter the choice");
           int ch= Convert.ToInt32 (Console.ReadLine());
-            //just a sec asach asu de mi baghto majya side la
-            // i think type casting karav lgel mala nai watat tham,b bhgtoy
-            // nhi hot he
-            //enjoy wait run kru de
-            // while ani do while ch output nhi yet heit wait baghto bachu
+            
 
             switch (ch)
             {
