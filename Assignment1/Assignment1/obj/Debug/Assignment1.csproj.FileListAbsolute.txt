@@ -1,0 +1,7 @@
+F:\C# assignments\Assignment1\Assignment1\obj\Debug\Assignment1.csprojAssemblyReference.cache
+F:\C# assignments\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+F:\C# assignments\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+F:\C# assignments\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+F:\C# assignments\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+F:\C# assignments\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+F:\C# assignments\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
